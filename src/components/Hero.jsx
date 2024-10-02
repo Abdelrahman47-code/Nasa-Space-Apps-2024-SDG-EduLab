@@ -15,7 +15,7 @@ import sdg14Img from "../assets/images/sdg14.jpg";
 import sdg15Img from "../assets/images/sdg15.jpg";
 import sdg16Img from "../assets/images/sdg16.jpg";
 import sdg17Img from "../assets/images/sdg17.jpg";
-import sdgs from "../assets/videos/sdgs.mp4";
+import sdgs from "../assets/videos/intro.mp4";
 
 import { Link } from "react-router-dom";
 
@@ -196,7 +196,7 @@ const Hero = () => {
           <h2>SDGs Dashboard</h2>
           <iframe
             src="https://www.sdgsdashboard.org/"
-            width="100%"  // Ensures full width
+            width="100%"
             height="600px"
             style={{ border: "none" }}
             title="SDGs Dashboard"
