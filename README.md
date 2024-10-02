@@ -17,12 +17,8 @@ SDG EduLab is an interactive and educational platform designed to engage users, 
 
 ## Technologies Used
 - Frontend: React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Data Visualization: D3.js, Chart.js
-- AI: ChatGPT for content generation and idea brainstorming
-- Deployment: GitHub Pages / Netlify (add your platform)
-- NASA & Partner Data: NASA Open APIs and datasets related to global environmental data.
+- Backend: Node.js (In the Future)
+- Database: MongoDB (In the Future)
 
 ## Contributing
 We welcome contributions! Please follow the steps below:
