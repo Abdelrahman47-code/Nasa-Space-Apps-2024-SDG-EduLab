@@ -1,0 +1,74 @@
+.dashboard {
+    padding: 50px;
+    width: 100%;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    animation: changeBg 15s infinite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    z-index: 1;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 28px;
+    color: #ffffff;
+  }
+
+  .dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .dashboard-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .dashboard-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .dashboard-card h3 {
+    font-size: 28px;
+    color: #333;
+  }
+  
+  .count {
+    font-size: 44px;
+    color: #f39c12;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+
+/* Keyframes for background image rotation */
+@keyframes changeBg {
+    0% {
+      background-image: url('../images/hunger.jpg');
+    }
+    25% {
+      background-image: url('../images/industry.jpg');
+    }
+    50% {
+      background-image: url('../images/life_under_water.jpg');
+    }
+    75% {
+      background-image: url('../images/renewable_energy.jpg');
+    }
+    100% {
+      background-image: url('../images/education.jpg');
+    }
+  }
+  
+  

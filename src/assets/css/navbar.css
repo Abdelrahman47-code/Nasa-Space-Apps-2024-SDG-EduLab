@@ -1,0 +1,46 @@
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+    z-index: 1000;
+}
+
+body {
+  padding-top: 80px;
+}
+
+
+.header .logo {
+  padding: 0;
+}
+
+.menu {
+  width: 100%;
+  text-align: center;
+}
+
+.logo {
+  width: 40%;
+  text-align: left;
+  height: 70px;
+}
+
+.user {
+  width: 30%;
+  text-align: right;
+  align-items: center;
+}
+
+.profile-section {
+  position: relative;
+  margin-left: 20px;
+}
+
+.profile-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  object-fit: cover;
+}
