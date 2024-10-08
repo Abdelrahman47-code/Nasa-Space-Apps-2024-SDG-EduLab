@@ -5,19 +5,27 @@ SDG EduLab is an interactive and educational platform designed to engage users, 
 
 ## Project Demo
 - Home Page
-![gif](GIFs_Demo/GIF_1)
+![gif](Gifs_Demo/GIF_1.gif)
 
 ---
 
-![gif](GIFs_Demo/GIF_2)
+![gif](Gifs_Demo/GIF_2.gif)
 
 ---
 
-![gif](GIFs_Demo/GIF_3)
+![gif](Gifs_Demo/GIF_3.gif)
 
-![gif](GIFs_Demo/GIF_4)
+---
 
-![gif](GIFs_Demo/GIF_5)
+![gif](Gifs_Demo/GIF_4.gif)
+
+---
+
+![gif](Gifs_Demo/GIF_5.gif)
+
+
+---
+---
 
 ## Project Highlights:
 - Interactive Platform: Users can explore the 17 SDGs and see real-time data visualizations.
