@@ -3,6 +3,22 @@
 ## Project Overview
 SDG EduLab is an interactive and educational platform designed to engage users, particularly students, in learning about the United Nations Sustainable Development Goals (SDGs). It combines data visualizations and educational resources to encourage users to explore how space data can be leveraged to address global challenges.
 
+## Project Demo
+- Home Page
+![gif](GIFs_Demo/GIF_1)
+
+---
+
+![gif](GIFs_Demo/GIF_2)
+
+---
+
+![gif](GIFs_Demo/GIF_3)
+
+![gif](GIFs_Demo/GIF_4)
+
+![gif](GIFs_Demo/GIF_5)
+
 ## Project Highlights:
 - Interactive Platform: Users can explore the 17 SDGs and see real-time data visualizations.
 - Educational Content: Provides insights and resources related to SDGs, empowering users to understand their global importance.
