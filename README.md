@@ -16,13 +16,10 @@ SDG EduLab is an interactive and educational platform designed to engage users, 
 ![gif](Gifs_Demo/GIF_3.gif)
 
 ---
-
 - News & Blogs
-
 ![gif](Gifs_Demo/GIF_4.gif)
 
 ---
-
 - Competitions & Community
 ![gif](Gifs_Demo/GIF_5.gif)
 
